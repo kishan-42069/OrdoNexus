@@ -1,0 +1,4 @@
+Transaction ID: 559922. Date: 2019-01-01.
+Transaction ID: 559923. Date: 2019-01-02.
+Customer PAN: QWERT1234U
+Email: old.customer@legacy.com

@@ -1,0 +1,5 @@
+CONFIDENTIAL. Aadhaar: 4521 8956 2314, PAN: ABCDE1234F.
+Customer: Rajesh Kumar
+Email: rajesh.kumar@example.com
+GSTIN: 29ABCDE1234F1Z5
+Aadhaar: 8765 4321 9876
