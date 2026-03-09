@@ -1,5 +1,25 @@
+<<<<<<< HEAD
+# Web framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Database — PostgreSQL
+sqlalchemy==2.0.25
+psycopg[binary]==3.2.4       # sync Postgres driver (Python 3.13 compatible)
+alembic==1.13.1               # migrations
+
+# Config
+python-dotenv==1.0.0
+
+# PDF reports
+reportlab==4.1.0
+
+# Utilities
+python-multipart==0.0.9
+=======
 fastapi==0.109.0
 uvicorn[standard]==0.27.0
 sqlalchemy==2.0.36
 python-multipart==0.0.6
 reportlab==4.0.9
+>>>>>>> upstream/main
